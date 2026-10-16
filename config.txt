@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 APP_MODE=production
-=======
-APP_MODE=production
->>>>>>> features/add-login
